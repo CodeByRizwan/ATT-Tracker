@@ -1,0 +1,4 @@
+att-tracker-backend/node_modules/
+att-tracker/node_modules/
+att-tracker-backend/.env
+att-tracker/.env
